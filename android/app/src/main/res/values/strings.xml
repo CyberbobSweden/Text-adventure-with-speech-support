@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dark Passages</string>
+    <string name="title_activity_main">Dark Passages</string>
+    <string name="package_name">se.cyberbob.darkpassages</string>
+    <string name="custom_url_scheme">se.cyberbob.darkpassages</string>
+</resources>
